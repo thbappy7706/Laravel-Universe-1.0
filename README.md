@@ -1,6 +1,9 @@
 ## Laravel Universe
 
 #### Laravel Universe is a Complete Build of Laravel 8 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Built on Bootstrap 4.
+
+ ![](https://github.com/thbappy7706/Laravel-Universe-1.0/blob/master/public/images/Capture.JPG)
+ 
  
 
 #### Table of contents
